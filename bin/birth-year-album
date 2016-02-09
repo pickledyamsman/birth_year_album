@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require "bundler/setup"
+require "birth_year_album"
+
+BirthYearAlbum::CLI.new.call
