@@ -1,8 +1,8 @@
 # BirthYearAlbum
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/birth_year_album`. To experiment with that code, run `bin/console` for an interactive prompt.
+This gem will take in a birth year and return the top selling album with artist for that year. 
 
-TODO: Delete this and the text above, and describe your gem
+Information is scraped from wikipedia's list of top selling albums by year.
 
 ## Installation
 
